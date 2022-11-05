@@ -2,10 +2,11 @@
 
 <p align="center">
   <h1 align="center">InstaBotComment</h1>
-  <p align="center">Este es un algoritmo que comenta una publicación específica automáticamente en b>Instagram</b>.
-  <p align="center">This is an algorithm that comments on a specific post automatically on <b>Instagram</b>.
-
+  <p align="center">Este es un algoritmo que comenta una publicación específica automáticamente en b>Instagram</b>.</p>
+  <p align="center">This is an algorithm that comments on a specific post automatically on <b>Instagram</b>.</p>
 </p>
+
+</br>
 --------
 ## Requisito / Requirements
 - [Python](https://www.python.org/)
@@ -13,7 +14,7 @@
 - [Selenium 4.20](https://pypi.org/project/selenium/4.2.0/) **Version obligatory**
 
 <br>
-## Como instalar / How to install
+## **Como instalar / How to install**
 
 #### Instalar Selenium
 Abrir **PowerShell** y poner / Open **PowerShell** and put:
@@ -76,7 +77,7 @@ Ejemplo:
 >
 >```
 
-#### Start Script:
+#### *Start Script:*
 
 Abrir **PowerShell** y poner / Open **PowerShell** and put:
 
