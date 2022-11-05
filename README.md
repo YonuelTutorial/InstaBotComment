@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 align="center">InstaBotComment</h1>
-  <p align="center">Este es un algoritmo que comenta una publicación específica automáticamente en b>Instagram</b>.</p>
+  <p align="center">Este es un algoritmo que comenta una publicación específica automáticamente en Instagram</b>.</p>
   <p align="center">This is an algorithm that comments on a specific post automatically on <b>Instagram</b>.</p>
 </p>
 
@@ -93,17 +93,15 @@ Ya en ese paso se pondra ** comentarios infinitamente.🚀**
 
 ## Warning
 
-*Para que funcione se necesita no tener A2F
+* Para que funcione se necesita no tener A2F
+* La version del chromedriver tiene que ser una cercana a su navegador
+* Tener Selenio 4.20
 
-*La version del chromedriver tiene que ser una cercana a su navegador
+<br>
 
-*Tener Selenio 4.20
-
-*For it to work you need to not have A2F
-
-*The chromedriver version has to be the one close to your browser
-
-*Have Selenium 4.20
+* For it to work you need to not have A2F
+* The chromedriver version has to be the one close to your browser
+* Have Selenium 4.20
 
 --------
 
