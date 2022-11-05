@@ -8,12 +8,14 @@
 
 </br>
 --------
+
 ## Requisito / Requirements
 - [Python](https://www.python.org/)
 - [ChromeDriver](https://chromedriver.chromium.org/downloads) **Version close to the browser Obligatory**
 - [Selenium 4.20](https://pypi.org/project/selenium/4.2.0/) **Version obligatory**
 
 <br>
+
 ## **Como instalar / How to install**
 
 #### Instalar Selenium
@@ -97,6 +99,8 @@ Ya en ese paso se pondra ** comentarios infinitamente.🚀**
 *For it to work you need to not have A2F
 *The chromedriver version has to be the one close to your browser
 *Have Selenium 4.20
+
 --------
+
 ## License
 
