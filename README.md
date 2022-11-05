@@ -7,6 +7,7 @@
 </p>
 
 </br>
+
 --------
 
 ## Requisito / Requirements
@@ -56,9 +57,9 @@ Para configurar solo separe entre `''` y `,`
 
 Ejemplo:
 
->randomcomments = ['@ever @Kim','Hola','Hello World',]
+randomcomments = ['@ever @Kim','Hola','Hello World',]
 
->Si se aleatoriamente se elije la primera `,`
+Si se aleatoriamente se elije la primera `,`
 
 >```elm
 >@ever @Kim
@@ -93,11 +94,15 @@ Ya en ese paso se pondra ** comentarios infinitamente.🚀**
 ## Warning
 
 *Para que funcione se necesita no tener A2F
+
 *La version del chromedriver tiene que ser una cercana a su navegador
+
 *Tener Selenio 4.20
 
 *For it to work you need to not have A2F
+
 *The chromedriver version has to be the one close to your browser
+
 *Have Selenium 4.20
 
 --------
